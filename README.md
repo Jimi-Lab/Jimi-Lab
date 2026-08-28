@@ -12,6 +12,7 @@ My research focuses on applying AI, particularly **Large Language Models (LLMs) 
 &nbsp;&nbsp;&nbsp;
 ✉️ [**Email**](mailto:xianmao_ji@hust.edu.cn)
 
+<br>
 ---
 
 ## 📚 Publications
@@ -19,7 +20,8 @@ My research focuses on applying AI, particularly **Large Language Models (LLMs) 
 > 🚧 To be updated.
 
 
-
+<br>
+<br>
 
 
 ## 🛡️ Vulnerabilities
@@ -41,7 +43,8 @@ My research focuses on applying AI, particularly **Large Language Models (LLMs) 
 北京中铁xxxx 高危x2，上汽集团 中危x1 ...
 
 
-
+<br>
+<br>
 
 
 ## 🏆 Competition Awards
@@ -76,7 +79,8 @@ My research focuses on applying AI, particularly **Large Language Models (LLMs) 
 
 
 
-
+<br>
+<br>
 
 ## 🎖️ Honors
 
@@ -91,7 +95,8 @@ My research focuses on applying AI, particularly **Large Language Models (LLMs) 
 - Outstanding Student Cadre
 
 
-
+<br>
+<br>
 
 
 ## 🧭 Experience
@@ -103,7 +108,8 @@ My research focuses on applying AI, particularly **Large Language Models (LLMs) 
 - Invited speaker, “Power of Role Models”, Mar 27, 2024
 
 
-
+<br>
+<br>
 
 
 ## 📫 Contact
