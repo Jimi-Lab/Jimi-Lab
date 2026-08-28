@@ -1,82 +1,140 @@
-# Hi, I'm Xianmao Ji (Jimi) 👋
+<div align="center">
+
+# Xianmao Ji (Jimi) 👋
 
 **Ph.D. Student in Cyberspace Security @ Huazhong University of Science and Technology (HUST)**
 
-**AI for Security × AI/Agent Security**
+### AI for Security × AI/Agent Security
 
 My research focuses on applying AI, particularly **Large Language Models (LLMs) and Agents**, to software and system security, as well as studying the security of AI/Agent systems themselves.
 
-[Homepage](https://jimi-lab.github.io/jimi68868) ·
-[GitHub](https://github.com/Jimi-Lab) ·
-[Email](mailto:xianmao_ji@hust.edu.cn)
+<br>
+
+[**Homepage**](https://jimi-lab.github.io/) ·
+[**GitHub**](https://github.com/Jimi-Lab) ·
+[**Email**](mailto:xianmao_ji@hust.edu.cn)
+
+</div>
+
+<br>
 
 ---
 
-## 🔬 Research Interests
+## 📄 Publications
 
-- **AI for Security**
-  - LLM/Agent-based Vulnerability Discovery
-  - Automated Vulnerability Analysis and Patching
-  - AI-guided Fuzzing
-  - Security Reasoning
+> To be updated.
 
-- **AI / Agent Security**
-  - LLM and Agent Security
-  - Prompt Injection & Jailbreak
-  - Agentic Application Security
-  - MCP / Tool-use Security
-
-- **Software & System Security**
-  - Program Analysis
-  - Binary Analysis & Reverse Engineering
-  - Firmware Security
-  - Vulnerability Research
+<br>
 
 ---
 
-## 🚀 Selected Research Projects
+## 🛡️ Vulnerabilities
 
-### VulnVersion
-**AI-assisted CVE Affected-Version Identification**
+### CVE
 
-Automatically determine vulnerable software releases from vulnerability fixes and repository history through program analysis and LLM-assisted reasoning.
+CVE-2024-4820，CVE-2026-4041，CVE-2026-4042，CVE-2026-4043，CVE-2026-5988，CVE-2026-5989，CVE-2026-5990，CVE-2026-5991，CVE-2026-5992，CVE-2026-6120，CVE-2026-6121，CVE-2026-6122，CVE-2026-6123，CVE-2026-6124，CVE-2026-6133，CVE-2026-6134，CVE-2026-6135，CVE-2026-6136，CVE-2026-6137，CVE-2026-6630，CVE-2026-6631，CVE-2026-6632 ...
 
-→ [Repository](https://github.com/Jimi-Lab/VulnVersion)
+### CNVD
 
-### ArXivBuddy
-**Automated research-paper tracking for arXiv**
+CNVD-2026-17276 ...
 
-Automatically collects and delivers newly released papers based on research interests.
+### 漏洞平台
 
-→ [Repository](https://github.com/Jimi-Lab/ArXivBuddy)
+北京中铁xxxx 高危x2，上汽集团 中危x1 ...
 
-### CS-Top-Venues
-**Computer Science Top-Venue Paper Collection**
-
-A year-by-year collection of papers from top venues in Security, AI, Software Engineering, Programming Languages, Systems, Databases, and Formal Methods.
-
-→ [Repository](https://github.com/Jimi-Lab/CS-Top-Venues)
-
-### Ghidra-script
-Utilities for automated binary-program analysis with Ghidra.
-
-→ [Repository](https://github.com/Jimi-Lab/Ghidra-script)
+<br>
 
 ---
 
-## 📚 Research Topics I'm Currently Exploring
+## 🏆 Competition Awards
 
-- LLM / Agent-based Vulnerability Discovery
-- AI-guided Fuzzing
-- Binary and Firmware Analysis with LLM Agents
-- CVE Affected-Version Identification
-- AI Agent Security
-- Secure Agentic Systems
+<details open>
+<summary><b>2025</b></summary>
+
+<br>
+
+- In July, I participated in AdventureX (China’s largest hackathon) in Hangzhou and developed an AI-powered daily academic paper recommendation system: [ArXivBuddy](https://github.com/Jimi-Lab/ArXivBuddy)
+- National College Software Innovation Contest (Software System Security, North China, Attack & Defense) — Second Prize
+
+</details>
+
+<details>
+<summary><b>2024</b></summary>
+
+<br>
+
+- University Student Energy Economics Academic Creativity Contest — National First Prize
+- The 14th “Challenge Cup” Student Entrepreneurship Competition — Provincial Gold Award
+- College Student Innovation & Entrepreneurship Training Program — Provincial Completion
+- China International College Students Innovation Competition — Provincial Silver Award × 2
+
+</details>
+
+<details>
+<summary><b>2023</b></summary>
+
+<br>
+
+- College Student Information Technology Certification Challenge — National First Prize
+- China Institute of Electronics Algorithm Competition — National First Prize
+- College Student Olympiad Mathematics — National Silver Award
+- Digital Economy Innovation Competition — National Third Prize
+- Electrical & Electronic Engineering Innovation Competition — National Third Prize
+- The 9th “Internet+” Innovation & Entrepreneurship Competition — Provincial Gold Award
+- The 9th “Internet+” Innovation & Entrepreneurship Competition — Provincial Bronze Award
+- Lanqiao Cup — Provincial Third Prize
+- China College Students Computer Design Competition (Shanxi) — Excellence Award
+
+</details>
+
+<details>
+<summary><b>2022</b></summary>
+
+<br>
+
+- College Student Computer Ability Challenge — Provincial First Prize
+
+</details>
+
+<br>
 
 ---
+
+## 🎖️ Honors
+
+- President’s Medal, North University of China (top university honor; ~10 recipients annually)
+- Special Scholarship in Comprehensive Quality Evaluation (rank: 1/4500)
+- National Scholarship
+- National Encouragement Scholarship
+- Featured by [People’s Daily App](https://www.peopleapp.com/rmharticle/30045071100) for competition performance
+- Outstanding Volunteer of Shanxi Province
+- Merit Student × 2
+- Excellent Communist Youth League Officer
+- Outstanding Student Cadre
+
+<br>
+
+---
+
+## 💼 Experience
+
+- Security Service Engineer, NSFOCUS Technologies, Beijing, Jun 2023 – Sep 2023
+- Backend Development Engineer, Haoxin Guangyuan Electronic Information Technology Co., Ltd., Jun 2022 – Sep 2022
+- Co-founded and led the “Shanxi JinYuxing Public Welfare Service Team” with Peiyu Li since 2021; team size 2k+ members
+- Invited speaker, “Youth Stories Sharing Session”, Mar 30, 2025
+- Invited speaker, “Power of Role Models”, Mar 27, 2024
+
+<br>
+
+---
+
+<div align="center">
 
 ## 📫 Contact
 
-- Email: xianmao_ji@hust.edu.cn
-- Homepage: https://jimi-lab.github.io/jimi68868
-- GitHub: https://github.com/Jimi-Lab
+**xianmao_ji@hust.edu.cn**
+
+[Homepage](https://jimi-lab.github.io/) ·
+[GitHub](https://github.com/Jimi-Lab)
+
+</div>
