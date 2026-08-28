@@ -1,79 +1,57 @@
-<div align="center">
-
 # Xianmao Ji (Jimi) 👋
 
-**Ph.D. Student in Cyberspace Security @ Huazhong University of Science and Technology (HUST)**
+**Ph.D. Student in Cyberspace Security @ Huazhong University of Science and Technology (HUST)**  
+**AI for Security × AI/Agent Security**
 
-### AI for Security × AI/Agent Security
+> My research focuses on applying AI, particularly **Large Language Models (LLMs) and Agents**, to software and system security, as well as studying the security of AI/Agent systems themselves.
 
-My research focuses on applying AI, particularly **Large Language Models (LLMs) and Agents**, to software and system security, as well as studying the security of AI/Agent systems themselves.
-
-<br>
-
-[**Homepage**](https://jimi-lab.github.io/) ·
-[**GitHub**](https://github.com/Jimi-Lab) ·
-[**Email**](mailto:xianmao_ji@hust.edu.cn)
-
-</div>
-
-<br>
+[![Homepage](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=githubpages&logoColor=white)](https://jimi-lab.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jimi--Lab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jimi-Lab)
+[![Email](https://img.shields.io/badge/Email-xianmao__ji%40hust.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xianmao_ji@hust.edu.cn)
 
 ---
 
-## 📄 Publications
+## 01 // Publications
 
-> To be updated.
-
-<br>
+**To be updated.**
 
 ---
 
-## 🛡️ Vulnerabilities
+## 02 // Vulnerabilities
 
 ### CVE
 
-CVE-2024-4820，CVE-2026-4041，CVE-2026-4042，CVE-2026-4043，CVE-2026-5988，CVE-2026-5989，CVE-2026-5990，CVE-2026-5991，CVE-2026-5992，CVE-2026-6120，CVE-2026-6121，CVE-2026-6122，CVE-2026-6123，CVE-2026-6124，CVE-2026-6133，CVE-2026-6134，CVE-2026-6135，CVE-2026-6136，CVE-2026-6137，CVE-2026-6630，CVE-2026-6631，CVE-2026-6632 ...
+`CVE-2024-4820` `CVE-2026-4041` `CVE-2026-4042` `CVE-2026-4043`  
+`CVE-2026-5988` `CVE-2026-5989` `CVE-2026-5990` `CVE-2026-5991` `CVE-2026-5992`  
+`CVE-2026-6120` `CVE-2026-6121` `CVE-2026-6122` `CVE-2026-6123` `CVE-2026-6124`  
+`CVE-2026-6133` `CVE-2026-6134` `CVE-2026-6135` `CVE-2026-6136` `CVE-2026-6137`  
+`CVE-2026-6630` `CVE-2026-6631` `CVE-2026-6632` ...
 
 ### CNVD
 
-CNVD-2026-17276 ...
+`CNVD-2026-17276` ...
 
-### 漏洞平台
+### Vulnerability Disclosure Platforms
 
 北京中铁xxxx 高危x2，上汽集团 中危x1 ...
 
-<br>
-
 ---
 
-## 🏆 Competition Awards
+## 03 // Competition Awards
 
-<details open>
-<summary><b>2025</b></summary>
-
-<br>
+### 2025
 
 - In July, I participated in AdventureX (China’s largest hackathon) in Hangzhou and developed an AI-powered daily academic paper recommendation system: [ArXivBuddy](https://github.com/Jimi-Lab/ArXivBuddy)
 - National College Software Innovation Contest (Software System Security, North China, Attack & Defense) — Second Prize
 
-</details>
-
-<details>
-<summary><b>2024</b></summary>
-
-<br>
+### 2024
 
 - University Student Energy Economics Academic Creativity Contest — National First Prize
 - The 14th “Challenge Cup” Student Entrepreneurship Competition — Provincial Gold Award
 - College Student Innovation & Entrepreneurship Training Program — Provincial Completion
 - China International College Students Innovation Competition — Provincial Silver Award × 2
 
-</details>
-
-<details>
-<summary><b>2023</b></summary>
-
-<br>
+### 2023
 
 - College Student Information Technology Certification Challenge — National First Prize
 - China Institute of Electronics Algorithm Competition — National First Prize
@@ -85,22 +63,13 @@ CNVD-2026-17276 ...
 - Lanqiao Cup — Provincial Third Prize
 - China College Students Computer Design Competition (Shanxi) — Excellence Award
 
-</details>
-
-<details>
-<summary><b>2022</b></summary>
-
-<br>
+### 2022
 
 - College Student Computer Ability Challenge — Provincial First Prize
 
-</details>
-
-<br>
-
 ---
 
-## 🎖️ Honors
+## 04 // Honors
 
 - President’s Medal, North University of China (top university honor; ~10 recipients annually)
 - Special Scholarship in Comprehensive Quality Evaluation (rank: 1/4500)
@@ -112,11 +81,9 @@ CNVD-2026-17276 ...
 - Excellent Communist Youth League Officer
 - Outstanding Student Cadre
 
-<br>
-
 ---
 
-## 💼 Experience
+## 05 // Experience
 
 - Security Service Engineer, NSFOCUS Technologies, Beijing, Jun 2023 – Sep 2023
 - Backend Development Engineer, Haoxin Guangyuan Electronic Information Technology Co., Ltd., Jun 2022 – Sep 2022
@@ -124,17 +91,10 @@ CNVD-2026-17276 ...
 - Invited speaker, “Youth Stories Sharing Session”, Mar 30, 2025
 - Invited speaker, “Power of Role Models”, Mar 27, 2024
 
-<br>
-
 ---
 
-<div align="center">
+## 06 // Contact
 
-## 📫 Contact
-
-**xianmao_ji@hust.edu.cn**
-
-[Homepage](https://jimi-lab.github.io/) ·
-[GitHub](https://github.com/Jimi-Lab)
-
-</div>
+**Email:** xianmao_ji@hust.edu.cn  
+**Homepage:** https://jimi-lab.github.io/  
+**GitHub:** https://github.com/Jimi-Lab
