@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Xianmao Ji (Jimi)
 
 🎓 **Ph.D. Student @ HUST**
+
 🛡️ **AI for Security × AI/Agent Security**
 
 My research focuses on applying AI, particularly **Large Language Models (LLMs) and Agents**, to software and system security, as well as studying the security of AI/Agent systems themselves.
