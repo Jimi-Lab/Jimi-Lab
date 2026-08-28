@@ -1,25 +1,37 @@
-# Xianmao Ji (Jimi) 👋
+# 👋 Hi, I'm Xianmao Ji (Jimi)
 
-**Ph.D. Student in Cyberspace Security @ Huazhong University of Science and Technology (HUST)**  
-**AI for Security × AI/Agent Security**
+🎓 **Ph.D. Student in Cyberspace Security @ Huazhong University of Science and Technology (HUST)**  
+🚀 **AI for Security × AI/Agent Security**
 
-> My research focuses on applying AI, particularly **Large Language Models (LLMs) and Agents**, to software and system security, as well as studying the security of AI/Agent systems themselves.
+> 🔭 My research focuses on applying AI, particularly **Large Language Models (LLMs) and Agents**, to software and system security, as well as studying the security of AI/Agent systems themselves.
 
-[![Homepage](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=githubpages&logoColor=white)](https://jimi-lab.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Jimi--Lab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jimi-Lab)
-[![Email](https://img.shields.io/badge/Email-xianmao__ji%40hust.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xianmao_ji@hust.edu.cn)
+<a href="https://jimi-lab.github.io/">
+  <img src="https://img.shields.io/badge/🏠_Homepage-Visit-2ea44f?style=flat-square" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Jimi-Lab">
+  <img src="https://img.shields.io/badge/🐙_GitHub-Jimi--Lab-181717?style=flat-square&logo=github" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:xianmao_ji@hust.edu.cn">
+  <img src="https://img.shields.io/badge/✉️_Email-xianmao__ji%40hust.edu.cn-EA4335?style=flat-square" />
+</a>
+
+<br>
+
+`🤖 AI` · `🛡️ Security` · `🧠 LLM & Agents` · `🔍 Vulnerability Research` · `🚀 Exploring`
 
 ---
 
-## 01 // Publications
+## 📚 Publications
 
-**To be updated.**
+> 🚧 To be updated.
 
 ---
 
-## 02 // Vulnerabilities
+## 🛡️ Vulnerabilities
 
-### CVE
+### 🐞 CVE
 
 `CVE-2024-4820` `CVE-2026-4041` `CVE-2026-4042` `CVE-2026-4043`  
 `CVE-2026-5988` `CVE-2026-5989` `CVE-2026-5990` `CVE-2026-5991` `CVE-2026-5992`  
@@ -27,74 +39,74 @@
 `CVE-2026-6133` `CVE-2026-6134` `CVE-2026-6135` `CVE-2026-6136` `CVE-2026-6137`  
 `CVE-2026-6630` `CVE-2026-6631` `CVE-2026-6632` ...
 
-### CNVD
+### 📋 CNVD
 
 `CNVD-2026-17276` ...
 
-### Vulnerability Disclosure Platforms
+### 🌐 Vulnerability Disclosure Platforms
 
 北京中铁xxxx 高危x2，上汽集团 中危x1 ...
 
 ---
 
-## 03 // Competition Awards
+## 🏆 Competition Awards
 
-### 2025
+### ✨ 2025
 
-- In July, I participated in AdventureX (China’s largest hackathon) in Hangzhou and developed an AI-powered daily academic paper recommendation system: [ArXivBuddy](https://github.com/Jimi-Lab/ArXivBuddy)
-- National College Software Innovation Contest (Software System Security, North China, Attack & Defense) — Second Prize
+- 🚀 In July, I participated in AdventureX (China’s largest hackathon) in Hangzhou and developed an AI-powered daily academic paper recommendation system: [ArXivBuddy](https://github.com/Jimi-Lab/ArXivBuddy)
+- 🥈 National College Software Innovation Contest (Software System Security, North China, Attack & Defense) — Second Prize
 
-### 2024
+### 🌟 2024
 
-- University Student Energy Economics Academic Creativity Contest — National First Prize
-- The 14th “Challenge Cup” Student Entrepreneurship Competition — Provincial Gold Award
-- College Student Innovation & Entrepreneurship Training Program — Provincial Completion
-- China International College Students Innovation Competition — Provincial Silver Award × 2
+- 🥇 University Student Energy Economics Academic Creativity Contest — National First Prize
+- 🏆 The 14th “Challenge Cup” Student Entrepreneurship Competition — Provincial Gold Award
+- 💡 College Student Innovation & Entrepreneurship Training Program — Provincial Completion
+- 🥈 China International College Students Innovation Competition — Provincial Silver Award × 2
 
-### 2023
+### 🔥 2023
 
-- College Student Information Technology Certification Challenge — National First Prize
-- China Institute of Electronics Algorithm Competition — National First Prize
-- College Student Olympiad Mathematics — National Silver Award
-- Digital Economy Innovation Competition — National Third Prize
-- Electrical & Electronic Engineering Innovation Competition — National Third Prize
-- The 9th “Internet+” Innovation & Entrepreneurship Competition — Provincial Gold Award
-- The 9th “Internet+” Innovation & Entrepreneurship Competition — Provincial Bronze Award
-- Lanqiao Cup — Provincial Third Prize
-- China College Students Computer Design Competition (Shanxi) — Excellence Award
+- 🥇 College Student Information Technology Certification Challenge — National First Prize
+- 🥇 China Institute of Electronics Algorithm Competition — National First Prize
+- 🥈 College Student Olympiad Mathematics — National Silver Award
+- 🥉 Digital Economy Innovation Competition — National Third Prize
+- 🥉 Electrical & Electronic Engineering Innovation Competition — National Third Prize
+- 🏆 The 9th “Internet+” Innovation & Entrepreneurship Competition — Provincial Gold Award
+- 🥉 The 9th “Internet+” Innovation & Entrepreneurship Competition — Provincial Bronze Award
+- 🥉 Lanqiao Cup — Provincial Third Prize
+- 💻 China College Students Computer Design Competition (Shanxi) — Excellence Award
 
-### 2022
+### 🌱 2022
 
-- College Student Computer Ability Challenge — Provincial First Prize
-
----
-
-## 04 // Honors
-
-- President’s Medal, North University of China (top university honor; ~10 recipients annually)
-- Special Scholarship in Comprehensive Quality Evaluation (rank: 1/4500)
-- National Scholarship
-- National Encouragement Scholarship
-- Featured by [People’s Daily App](https://www.peopleapp.com/rmharticle/30045071100) for competition performance
-- Outstanding Volunteer of Shanxi Province
-- Merit Student × 2
-- Excellent Communist Youth League Officer
-- Outstanding Student Cadre
+- 🥇 College Student Computer Ability Challenge — Provincial First Prize
 
 ---
 
-## 05 // Experience
+## 🎖️ Honors
 
-- Security Service Engineer, NSFOCUS Technologies, Beijing, Jun 2023 – Sep 2023
-- Backend Development Engineer, Haoxin Guangyuan Electronic Information Technology Co., Ltd., Jun 2022 – Sep 2022
-- Co-founded and led the “Shanxi JinYuxing Public Welfare Service Team” with Peiyu Li since 2021; team size 2k+ members
-- Invited speaker, “Youth Stories Sharing Session”, Mar 30, 2025
-- Invited speaker, “Power of Role Models”, Mar 27, 2024
+- 🏅 President’s Medal, North University of China (top university honor; ~10 recipients annually)
+- 🌟 Special Scholarship in Comprehensive Quality Evaluation (rank: 1/4500)
+- 🎓 National Scholarship
+- 🎓 National Encouragement Scholarship
+- 📰 Featured by [People’s Daily App](https://www.peopleapp.com/rmharticle/30045071100) for competition performance
+- ❤️ Outstanding Volunteer of Shanxi Province
+- ⭐ Merit Student × 2
+- 📌 Excellent Communist Youth League Officer
+- 🧭 Outstanding Student Cadre
 
 ---
 
-## 06 // Contact
+## 🧭 Experience
 
-**Email:** xianmao_ji@hust.edu.cn  
-**Homepage:** https://jimi-lab.github.io/  
-**GitHub:** https://github.com/Jimi-Lab
+- 🛡️ Security Service Engineer, NSFOCUS Technologies, Beijing, Jun 2023 – Sep 2023
+- 💻 Backend Development Engineer, Haoxin Guangyuan Electronic Information Technology Co., Ltd., Jun 2022 – Sep 2022
+- 🌱 Co-founded and led the “Shanxi JinYuxing Public Welfare Service Team” with Peiyu Li since 2021; team size 2k+ members
+- 🎤 Invited speaker, “Youth Stories Sharing Session”, Mar 30, 2025
+- 🎤 Invited speaker, “Power of Role Models”, Mar 27, 2024
+
+---
+
+## 📫 Contact
+
+📧 **Email:** xianmao_ji@hust.edu.cn  
+🌐 **Homepage:** https://jimi-lab.github.io/  
+🐙 **GitHub:** https://github.com/Jimi-Lab
