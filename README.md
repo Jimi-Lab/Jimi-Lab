@@ -3,29 +3,21 @@
 🎓 **Ph.D. Student in Cyberspace Security @ Huazhong University of Science and Technology (HUST)**  
 🚀 **AI for Security × AI/Agent Security**
 
-> 🔭 My research focuses on applying AI, particularly **Large Language Models (LLMs) and Agents**, to software and system security, as well as studying the security of AI/Agent systems themselves.
+My research focuses on applying AI, particularly **Large Language Models (LLMs) and Agents**, to software and system security, as well as studying the security of AI/Agent systems themselves.
 
-<a href="https://jimi-lab.github.io/">
-  <img src="https://img.shields.io/badge/🏠_Homepage-Visit-2ea44f?style=flat-square" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Jimi-Lab">
-  <img src="https://img.shields.io/badge/🐙_GitHub-Jimi--Lab-181717?style=flat-square&logo=github" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:xianmao_ji@hust.edu.cn">
-  <img src="https://img.shields.io/badge/✉️_Email-xianmao__ji%40hust.edu.cn-EA4335?style=flat-square" />
-</a>
-
-<br>
-
-`🤖 AI` · `🛡️ Security` · `🧠 LLM & Agents` · `🔍 Vulnerability Research` · `🚀 Exploring`
+🌐 [**Homepage**](https://jimi-lab.github.io/)
+&nbsp;&nbsp;&nbsp;
+🐙 [**GitHub**](https://github.com/Jimi-Lab)
+&nbsp;&nbsp;&nbsp;
+✉️ [**Email**](mailto:xianmao_ji@hust.edu.cn)
 
 ---
 
 ## 📚 Publications
 
 > 🚧 To be updated.
+
+
 
 ---
 
@@ -46,6 +38,8 @@
 ### 🌐 Vulnerability Disclosure Platforms
 
 北京中铁xxxx 高危x2，上汽集团 中危x1 ...
+
+
 
 ---
 
@@ -79,6 +73,8 @@
 
 - College Student Computer Ability Challenge — Provincial First Prize
 
+
+
 ---
 
 ## 🎖️ Honors
@@ -93,6 +89,8 @@
 - Excellent Communist Youth League Officer
 - Outstanding Student Cadre
 
+
+
 ---
 
 ## 🧭 Experience
@@ -102,6 +100,8 @@
 - Co-founded and led the “Shanxi JinYuxing Public Welfare Service Team” with Peiyu Li since 2021; team size 2k+ members
 - Invited speaker, “Youth Stories Sharing Session”, Mar 30, 2025
 - Invited speaker, “Power of Role Models”, Mar 27, 2024
+
+
 
 ---
 
